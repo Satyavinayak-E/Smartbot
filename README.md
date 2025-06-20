@@ -18,7 +18,7 @@ SmartBot is a friendly AI-powered chatbot that fetches information from **Wikipe
 
 ## 📸 Screenshot
 
-![SmartBot Screenshot](static/images/demo-screenshot.png)
+![SmartBot Screenshot](static/images/smartbot_preview.jpg)
 
 ---
 
@@ -79,3 +79,9 @@ Chart.js – Frontend visualizations
 
 ## 📄 License
 This project is licensed under the MIT License. See LICENSE for details.
+
+### 📫 Contact 
+Feel free to reach out via the contact form on the site or email me at :  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satya-vinayak-e-65636033b)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Satyavinayak-E)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:satyavinayakerragunta@gmail.com)
