@@ -1,0 +1,86 @@
+    body {
+      background-image: url('/static/images/robot-chatbot.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      font-family: 'Poppins', sans-serif;
+    }
+    .chat-container {
+      max-width: 800px;
+      margin: auto;
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(15px);
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+    .chat-container.dark-mode {
+      background: rgba(31, 31, 31, 0.85);
+      color: black;
+    }
+    .chat-box {
+      height: 350px;
+      overflow-y: auto;
+      border: 2px solid var(--bs-secondary);
+      border-radius: 10px;
+      padding: 15px;
+      background-color: transparent;
+    }
+    .input-group .btn {
+      border-radius: 0 10px 10px 0;
+    }
+    .message-wrapper {
+      display: flex;
+      align-items: flex-end;
+      margin-bottom: 10px;
+      animation: fadeInUp 0.4s ease;
+    }
+    .message {
+      padding: 10px 14px;
+      border-radius: 18px;
+      max-width: 70%;
+      position: relative;
+    }
+    .message .timestamp {
+      font-size: 0.75rem;
+      color: #888;
+      margin-top: 4px;
+    }
+    .user-message {
+      background-color: #e0f7fa;
+      margin-left: auto;
+      text-align: right;
+    }
+    .bot-message {
+      background-color: #f1f8e9;
+      margin-right: auto;
+      text-align: left;
+    }
+    .avatar {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      margin: 0 10px;
+    }
+    .theme-toggle {
+      position: absolute;
+      top: 15px;
+      right: 15px;
+    }
+
+  .btn-outline-primary {
+      font-family: 'Poppins', sans-serif;
+      font-size: 14px;
+      border-radius: 30px;
+      transition: all 0.3s ease-in-out;
+    }
+  .btn-outline-primary:hover {
+     background-color: #007bff;
+     color: white;
+    }
+
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }

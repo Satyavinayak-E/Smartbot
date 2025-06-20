@@ -1,0 +1,8 @@
+Flask
+wikipedia
+matplotlib
+fpdf
+
+# - Bootstrap
+# - Chart.js
+# - Google Fonts (Poppins)

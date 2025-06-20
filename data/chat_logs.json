@@ -1,0 +1,356 @@
+[
+    {
+        "timestamp": "2025-06-19 21:37:15.995535",
+        "query": "Hi",
+        "response": "Hi there! How can I help you today?",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 21:37:34.154491",
+        "query": "what is data science",
+        "response": "Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processing, scientific visualization, algorithms and systems to extract or extrapolate knowledge from potentially noisy, structured, or unstructured data. \nData science also integrates domain knowledge from the underlying application domain (e.g., natural sciences, information technology, and medicine).",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 21:37:35.127786",
+        "query": "",
+        "response": "Sorry, I couldn't find anything useful. Try rephrasing.",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-19 21:39:21.229292",
+        "query": "Hi ",
+        "response": "H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 21:40:23.757834",
+        "query": "",
+        "response": "Sorry, I couldn't find anything useful. Try rephrasing.",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-19 21:40:30.231224",
+        "query": "",
+        "response": "Sorry, I couldn't find anything useful. Try rephrasing.",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-19 21:48:20.158559",
+        "query": "Hi, how are you?",
+        "response": "Hi, How Are You: The Unfinished Album is the sixth self-released music cassette album by singer-songwriter Daniel Johnston, recorded in September 1983. The subtitle refers to the length of the album; Johnston had intended for it to be an hour-long release, as a majority of his earlier releases were.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 22:29:10.239264",
+        "query": "what is data science",
+        "response": "Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processing, scientific visualization, algorithms and systems to extract or extrapolate knowledge from potentially noisy, structured, or unstructured data. \nData science also integrates domain knowledge from the underlying application domain (e.g., natural sciences, information technology, and medicine).",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 22:32:33.133582",
+        "query": "what is cloud computing",
+        "response": "Cloud computing is \"a paradigm for enabling network access to a scalable and elastic pool of shareable physical or virtual resources with self-service provisioning and administration on-demand,\" according to ISO.\n\n\n== Essential characteristics ==\nIn 2011, the National Institute of Standards and Technology (NIST) identified five \"essential characteristics\" for cloud systems. Below are the exact definitions according to NIST:\n\nOn-demand self-service: \"A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with each service provider.\"\nBroad network access: \"Capabilities are available over the network and accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms (e.g., mobile phones, tablets, laptops, and workstations).\"\nResource pooling: \" The provider's computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically assigned and reassigned according to consumer demand.\"\nRapid elasticity: \"Capabilities can be elastically provisioned and released, in some cases automatically, to scale rapidly outward and inward commensurate with demand.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 22:37:54.070433",
+        "query": "what is python ",
+        "response": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 22:43:34.100759",
+        "query": "what is cloud computing",
+        "response": "Cloud computing is \"a paradigm for enabling network access to a scalable and elastic pool of shareable physical or virtual resources with self-service provisioning and administration on-demand,\" according to ISO.\n\n\n== Essential characteristics ==\nIn 2011, the National Institute of Standards and Technology (NIST) identified five \"essential characteristics\" for cloud systems. Below are the exact definitions according to NIST:\n\nOn-demand self-service: \"A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with each service provider.\"\nBroad network access: \"Capabilities are available over the network and accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms (e.g., mobile phones, tablets, laptops, and workstations).\"\nResource pooling: \" The provider's computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically assigned and reassigned according to consumer demand.\"\nRapid elasticity: \"Capabilities can be elastically provisioned and released, in some cases automatically, to scale rapidly outward and inward commensurate with demand.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 22:43:50.673906",
+        "query": "what is Java",
+        "response": "Java is a high-level, general-purpose, memory-safe, object-oriented programming language. It is intended to let programmers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need to recompile.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 22:44:08.558770",
+        "query": "what is oops",
+        "response": "Sorry, I couldn't find anything useful. Try rephrasing.",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-19 22:44:30.315924",
+        "query": "what is oops model",
+        "response": "Sorry, I couldn't find anything useful. Try rephrasing.",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-19 23:21:49.664881",
+        "query": "who is PM of india?",
+        "response": "The prime minister of India (ISO: Bh\u0101rata k\u0113 Pradh\u0101namantr\u012b) is the head of government of the Republic of India. Executive authority is vested in the prime minister and his chosen Council of Ministers, despite the president of India being the nominal head of the executive.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:22:16.252973",
+        "query": "who is the PM of India 2025?",
+        "response": "Sorry, I couldn't find anything useful. Try rephrasing.",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-19 23:25:30.102501",
+        "query": "who is PM of India 2025?",
+        "response": "\ud83d\udd0d Web Search Result:\nI searched the web, but couldn\u2019t find anything reliable. Try rephrasing.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:25:43.973733",
+        "query": "PM of india",
+        "response": "\ud83d\udd0d Web Search Result:\nI searched the web, but couldn\u2019t find anything reliable. Try rephrasing.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:26:58.423606",
+        "query": "Hi",
+        "response": "\ud83d\udc4b Hi there! How can I assist you today?",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:37:03.066286",
+        "query": "who is pm of India",
+        "response": "\ud83d\udcda From Wikipedia:\nThe prime minister of India (ISO: Bh\u0101rata k\u0113 Pradh\u0101namantr\u012b) is the head of government of the Republic of India. Executive authority is vested in the prime minister and his chosen Council of Ministers, despite the president of India being the nominal head of the executive.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:37:27.319891",
+        "query": "pm of india 2025",
+        "response": "\ud83d\udd0d Web Search Result:\nList of all Prime Ministers of India (1947-2025) | India PM List",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:37:52.112259",
+        "query": "give me the List of all Prime Ministers of India (1947-2025) | India PM List",
+        "response": "\ud83d\udcda From Wikipedia:\nThe prime minister of India (ISO: Bh\u0101rata k\u0113 Pradh\u0101namantr\u012b) is the head of government of the Republic of India. Executive authority is vested in the prime minister and his chosen Council of Ministers, despite the president of India being the nominal head of the executive.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:39:39.851932",
+        "query": "who is pm of India 2025",
+        "response": "\ud83d\udd0d Web Result:\nList of all Prime Ministers of India (1947-2025) | India PM List",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:43:39.590898",
+        "query": "pm of india 2025",
+        "response": "\ud83c\udf10 Web Answer: Find out the names, terms, and parties of all the Prime Ministers ofIndiafrom 1947 to2025, including the currentPMNarendra Modi. Learn about their contributions, challenges, and achievements inIndia'sdemocratic history.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:44:11.597712",
+        "query": "who is PM of India 2025",
+        "response": "\ud83d\ude14 Sorry, I couldn\u2019t find a clear answer. Try rephrasing.",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-19 23:44:29.841311",
+        "query": "president of US",
+        "response": "\ud83c\udf10 Web Answer: Thepresidentofthe United States is the head of state and head of government of the United States, [1] indirectly elected to a four-year term via the Electoral College. [2] Under theU.S. Constitution, the officeholder leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces. [3] The ...",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:44:50.707512",
+        "query": "president of us 2025",
+        "response": "\ud83d\ude14 Sorry, I couldn\u2019t find a clear answer. Try rephrasing.",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-19 23:45:04.973335",
+        "query": "president of US 2025",
+        "response": "\ud83d\ude14 Sorry, I couldn\u2019t find a clear answer. Try rephrasing.",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-19 23:46:48.627067",
+        "query": "president of USA 2025",
+        "response": "\ud83c\udf10 Web Answer: 45th & 47thPresidentofthe United States. After a landslide election victory in 2024,PresidentDonald J. Trump is returning to the White House to build upon his previous successes and use his ...",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:47:16.219801",
+        "query": "president of India 2003",
+        "response": "\ud83c\udf10 Web Answer: ThepresidentofIndiais the head of state of the Republic ofIndiaand the supreme commander of the Indian Armed Forces.Thepresidentis referred to as the first citizen ofIndia. [1] [2] Although vested with these powers by the Constitution ofIndia, the position is largely a ceremonial one and executive powers are de facto exercised by the prime minister.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:47:53.993746",
+        "query": "Prime minister of india ",
+        "response": "\ud83c\udf10 Web Answer: Theprimeministeris appointed by the president ofIndia; however, theprimeministerhas to enjoy the confidence of the majority of Lok Sabha members, who are directly elected every five years, unless aprimeministerresigns. Theprimeministeris the presiding member of the Council ofMinistersofthe Union government. Theprimeministerunilaterally controls the selection and dismissal of ...",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:54:27.706970",
+        "query": "PM of India",
+        "response": "\ud83c\udf10 Web Answer:\nThe prime minister is appointed by the president ofIndia; however, the prime minister has to enjoy the confidence of the majority of Lok Sabha members, who are directly elected every five years, unless a prime minister resigns.The prime minister is the presiding member of the Council of Ministers of the Union government.\n\n\ud83d\udd17 [Source Link](//duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_prime_ministers_of_India&rut=41966c885966a27cc617f4e2b346f2c5191e4b6764b2547df0b54dbee417c3ff)",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-19 23:57:19.092824",
+        "query": "President of russia",
+        "response": "\ud83c\udf10 Web Answer:<br>Service for sending messages to thePresident(Send a Letter) eng.letters.kremlin.ru The Constitution of the Russian Federation constitution.kremlin.ru Russian national symbols eng.flag.kremlin.ru<br><a href='//duckduckgo.com/l/?uddg=http%3A%2F%2Fen.kremlin.ru%2F&rut=46b60df9435f5832e0071d655be457db13a27afb6bded63a5a5f3878591f6506' target='_blank'>\ud83d\udd17 Source Link</a>",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:01:14.034323",
+        "query": "Hi",
+        "response": "\ud83d\udc4b Hello! How can I assist you today?",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:01:21.791597",
+        "query": "Hey",
+        "response": "\ud83d\udc4b Hello! How can I assist you today?",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:01:30.304662",
+        "query": "Hello",
+        "response": "\ud83d\udc4b Hello! How can I assist you today?",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:01:56.908047",
+        "query": "President of USA 2025",
+        "response": "\ud83d\udcd8 Wikipedia:<br>The president of the United States is the head of state and head of government of the United States, indirectly elected to a four-year term via the Electoral College. Under the U.S. Constitution, the officeholder leads the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:02:27.594202",
+        "query": "who is the president of USA ",
+        "response": "\ud83d\ude4b\u200d\u2642\ufe0f I couldn\u2019t find a specific answer. Try this:<br><a href='https://www.google.com/search?q=who+is+the+president+of+USA+' target='_blank'>\ud83d\udd0d Search on Google</a>",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-20 00:28:05.059705",
+        "query": "Hi ",
+        "response": "\ud83d\udcd8 Wikipedia:<br>H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:28:48.909167",
+        "query": "hi",
+        "response": "\ud83d\udc4b Hello! How can I assist you today?",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:29:47.387972",
+        "query": "Hi",
+        "response": "\ud83d\udc4b Hello! How can I assist you today?",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:33:40.557563",
+        "query": "Hi",
+        "response": "\ud83d\udc4b Hello! How can I assist you today?",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:33:48.970543",
+        "query": "thanks ",
+        "response": "\ud83d\udcd8 Wikipedia:<br>A tank is an armoured fighting vehicle intended as a primary offensive weapon in front-line ground combat. Tank designs are a balance of heavy firepower, strong armour, and battlefield mobility provided by tracks and a powerful engine; their main armament is often mounted within a turret.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:34:57.680758",
+        "query": "hi",
+        "response": "\ud83d\udc4b Hello! How can I assist you today?",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:38:42.964817",
+        "query": "thanks",
+        "response": "You're very welcome! \ud83d\ude0a I'm here whenever you need me.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:38:51.075722",
+        "query": "bye",
+        "response": "\ud83d\udc4b Bye! Take care.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:38:58.956578",
+        "query": "Hi",
+        "response": "\ud83d\udc4b Hello! How can I assist you today?",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 00:39:17.584497",
+        "query": "hi",
+        "response": "\ud83d\udc4b Hello! How can I assist you today?",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 19:03:00.598121",
+        "query": "PM of India ",
+        "response": "\ud83c\udf10 I couldn't find a specific answer, but try this:<br><a href='https://www.google.com/search?q=PM+of+India+' target='_blank'>\ud83d\udd0d View on Google</a>",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-20 19:04:54.329008",
+        "query": "pm of india ",
+        "response": "\ud83c\udf10 I couldn't find a specific answer, but try this:<br><a href='https://www.google.com/search?q=pm+of+india+' target='_blank'>\ud83d\udd0d View on Google</a>",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-20 19:05:29.331205",
+        "query": "what is data science ",
+        "response": "\ud83d\udcd8 Wikipedia Answer:<br>Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processing, scientific visualization, algorithms and systems to extract or extrapolate knowledge from potentially noisy, structured, or unstructured data. \nData science also integrates domain knowledge from the underlying application domain (e.g., natural sciences, information technology, and medicine).",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 19:06:03.331129",
+        "query": "Datatypes of python ",
+        "response": "\ud83c\udf10 I couldn't find a specific answer, but try this:<br><a href='https://www.google.com/search?q=Datatypes+of+python+' target='_blank'>\ud83d\udd0d View on Google</a>",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-20 19:09:58.443113",
+        "query": "what is cloud computing ",
+        "response": "\ud83d\udcd8 Wikipedia Answer:<br>Cloud computing is \"a paradigm for enabling network access to a scalable and elastic pool of shareable physical or virtual resources with self-service provisioning and administration on-demand,\" according to ISO.\n\n\n== Essential characteristics ==\nIn 2011, the National Institute of Standards and Technology (NIST) identified five \"essential characteristics\" for cloud systems. Below are the exact definitions according to NIST:\n\nOn-demand self-service: \"A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with each service provider.\"\nBroad network access: \"Capabilities are available over the network and accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms (e.g., mobile phones, tablets, laptops, and workstations).\"\nResource pooling: \" The provider's computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically assigned and reassigned according to consumer demand.\"\nRapid elasticity: \"Capabilities can be elastically provisioned and released, in some cases automatically, to scale rapidly outward and inward commensurate with demand.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 19:10:54.260457",
+        "query": "real-time examples of cloud computing ",
+        "response": "\ud83d\udcd8 Wikipedia Answer:<br>Cloud computing is \"a paradigm for enabling network access to a scalable and elastic pool of shareable physical or virtual resources with self-service provisioning and administration on-demand,\" according to ISO.\n\n\n== Essential characteristics ==\nIn 2011, the National Institute of Standards and Technology (NIST) identified five \"essential characteristics\" for cloud systems. Below are the exact definitions according to NIST:\n\nOn-demand self-service: \"A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with each service provider.\"\nBroad network access: \"Capabilities are available over the network and accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms (e.g., mobile phones, tablets, laptops, and workstations).\"\nResource pooling: \" The provider's computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically assigned and reassigned according to consumer demand.\"\nRapid elasticity: \"Capabilities can be elastically provisioned and released, in some cases automatically, to scale rapidly outward and inward commensurate with demand.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 19:48:39.336058",
+        "query": "hi",
+        "response": "\ud83d\udc4b Hello! How can I assist you today?",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 19:48:44.979003",
+        "query": "bye ",
+        "response": "\ud83d\udc4b Bye! Take care.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 19:48:51.732792",
+        "query": "thanks",
+        "response": "You're very welcome! \ud83d\ude0a I'm here whenever you need me.",
+        "success": true
+    },
+    {
+        "timestamp": "2025-06-20 20:19:25.146409",
+        "query": "pm of india ",
+        "response": "\ud83c\udf10 I couldn't find a specific answer, but try this below link:<br><a href='https://www.google.com/search?q=pm+of+india+' target='_blank'>\ud83d\udd0d View on Google</a>",
+        "success": false
+    },
+    {
+        "timestamp": "2025-06-20 20:48:30.115574",
+        "query": "Hi",
+        "response": "\ud83d\udc4b Hello! How can I assist you today?",
+        "success": true
+    }
+]
