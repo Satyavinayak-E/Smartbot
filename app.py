@@ -3,6 +3,7 @@ from chatbot_logic import get_bot_response
 import analytics
 import report_generator
 import traceback
+import os 
 
 app = Flask(__name__, static_folder='static')
 
