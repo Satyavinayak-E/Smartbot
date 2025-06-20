@@ -78,7 +78,7 @@ Bootstrap 5 – Responsive web design
 Chart.js – Frontend visualizations
 
 ## 📄 License
-This project is licensed under the MIT License. See ![LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## 📫 Contact 
 Feel free to reach out via the contact form on the site or email me at :  
